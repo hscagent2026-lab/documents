@@ -1,0 +1,17 @@
+question_id,file_type,question,answer,source_file
+Q1,HTML,What is the probation period for new employees at JugnuParatha Cloth Company?,3 months,onboarding_process.html
+Q2,HTML,What referral bonus does an employee receive when a referred candidate is hired?,"INR 25,000",recruitment_policy.html
+Q3,HTM,What are the core working hours during which all employees must be present?,10:30 AM to 4:30 PM,attendance_policy.htm
+Q4,HTM,How many days can an eligible employee work from home?,3 days per week,work_from_home_policy.htm
+Q5,PDF,How many days of paid annual (earned) leave is a full-time employee of JugnuParatha Cloth Company entitled to per year?,24 days,leave_policy.pdf
+Q6,PDF,Within how many working days does the Grievance Committee aim to resolve a grievance?,10 working days,grievance_redressal_policy.pdf
+Q7,PPT,How many hours of mandatory training must each employee complete per year?,60 hours,training_program.ppt
+Q8,PPT,How long do employees have to complete their self appraisal after the review cycle opens?,3 weeks,performance_review_process.ppt
+Q9,DOC,What is the maximum yearly cover of the group medical insurance?,"INR 5,00,000",employee_benefits.doc
+Q10,DOC,What notice period must a confirmed employee serve after resigning?,45 days,exit_and_notice_period.doc
+Q11,DOCX,What uniform maintenance allowance is paid to factory staff?,"INR 7,500 per year",dress_code_policy.docx
+Q12,DOCX,What daily allowance (per diem) is paid for official travel?,"INR 2,000 per day",travel_reimbursement_policy.docx
+Q13,XLS,What share of gross salary is the Basic Salary component?,45%,payroll_structure.xls
+Q14,XLS,How many paid holidays are there in the 2026 holiday calendar?,14,holiday_calendar_2026.xls
+Q15,XLSX,Who is the head of the Human Resources department?,Rohit Malhotra,department_structure.xlsx
+Q16,XLSX,What annual bonus percentage of basic salary is paid to employees rated 'Exceeds Expectations'?,15%,performance_bonus_matrix.xlsx
